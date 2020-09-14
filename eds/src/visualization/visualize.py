@@ -76,9 +76,9 @@ app.layout = html.Div([
 
 def update_figure(country_list, show_doubling):
     
-    if 'doubling_rate' in show_doubling:
+    if 'DR' in show_doubling:
         my_yaxis = {'type': "log",
-                    'title': 'Approximated doubling rate over 3 days (larger numbers are better #stayathome)'
+                    'title': 'Approximated doubling rate over 3 days'
                     }
     else:
         my_yaxis = {'type': "log",
