@@ -68,3 +68,17 @@ Project Organization
 	
 	1. To run the dynamic dashboard, simply clone then repository -> go to src/visualisation/visualize.py
 	2. To run the SIR model for Germany - Run SIR_model.py
+
+# A Sneak peek of the project
+
+1. Timeline Confirmed
+<img src="Timeline_confirmed.gif">
+
+2. Timeline Confirmed Filtered
+<img src = "Timeline_confirmed_filtered.gif">
+
+3. Timeline Doubling Rate
+<img src="Timeline_doubling_rate.gif">
+
+4. Timeline Doubling Rate Filtered
+<img src="Timeleine_doubling_rate_filtered.gif">
